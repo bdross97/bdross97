@@ -1,6 +1,6 @@
 # Hello! My name is Brayden!
 
-Currently I am a Senior Data Analyst at [Pluralsight](www.pluralsight.com)
+### Currently I am a Senior Data Analyst at [Pluralsight](www.pluralsight.com)
 
 <img src="https://github.com/bdross97/bdross97/blob/main/ps_logo.png?raw=true" width="100" height="100" />
 
