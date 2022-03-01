@@ -6,9 +6,9 @@ Currently I am a Senior Data Analyst at [Pluralsight](www.pluralsight.com)
 
 ### Github Stats
 
-[![Brayden's Github Stats](https://github-readme-stats.vercel.app/api?username=bdross97&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Brayden's Github Stats](https://github-readme-stats.vercel.app/api?username=bdross97&count_private=true&show_icons=true&icon_color=FFFFFF&bg_color=30,F14B2A,EC008C&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bdross97&bg_color=30,F14B2A,EC008C&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 ### A Little Bit About Me
 
