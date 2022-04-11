@@ -1,8 +1,10 @@
 # Hello! My name is Brayden!
 
-### Currently I am a Senior Data Analyst at [Pluralsight](www.pluralsight.com)
+![Group 14-2](https://user-images.githubusercontent.com/46543563/162789518-ec1bc9d2-99cd-4441-b51f-f4816379c39e.png)
 
-<img src="https://github.com/bdross97/bdross97/blob/main/ps_logo.png?raw=true" width="100" height="100" />
+### Currently I am a Senior Data Analyst at [Pluralsight](www.pluralsight.com) <img src="https://github.com/bdross97/bdross97/blob/main/ps_logo.png?raw=true" width="24" height="24" />
+
+
 
 ### Github Stats
 
