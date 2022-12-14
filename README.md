@@ -2,10 +2,6 @@
 
 ![Group 15](https://user-images.githubusercontent.com/46543563/163054722-e8cf0e14-e1be-4c1c-b01f-d31e4385614e.png)
 
-### Currently I am a Senior Data Analyst at [Pluralsight](www.pluralsight.com) <img src="https://github.com/bdross97/bdross97/blob/main/ps_logo.png?raw=true" width="24" height="24" />
-
-
-
 ### Github Stats
 
 [![Brayden's Github Stats](https://github-readme-stats.vercel.app/api?username=bdross97&count_private=true&show_icons=true&icon_color=FFFFFF&bg_color=30,F14B2A,EC008C&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
