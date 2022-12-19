@@ -1,12 +1,10 @@
 # Hello! My name is Brayden!
 
-![Group 15](https://user-images.githubusercontent.com/46543563/163054722-e8cf0e14-e1be-4c1c-b01f-d31e4385614e.png)
+![Group 17black_purple_banner](https://user-images.githubusercontent.com/46543563/208472049-2830ca45-e725-4561-a5ef-a6d0430641d1.PNG)
 
 ### Github Stats
 
-[![Brayden's Github Stats](https://github-readme-stats.vercel.app/api?username=bdross97&count_private=true&show_icons=true&icon_color=FFFFFF&bg_color=30,F14B2A,EC008C&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bdross97&bg_color=30,F14B2A,EC008C&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Brayden's Github Stats](https://github-readme-stats.vercel.app/api?username=bdross97&count_private=true&show_icons=true&icon_color=FFFFFF&bg_color=30,e80a89,d6c2ff&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 ### A Little Bit About Me
 
